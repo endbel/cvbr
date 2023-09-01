@@ -1,0 +1,125 @@
+/* Estilos globales */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border: 2px solid #ccc; /* Agrega bordes al contenedor */
+    border-radius: 10px; /* Agrega esquinas redondeadas */
+  }
+  
+  /* Estilos para encabezado */
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    font-size: 30px;
+    color: #333;
+    margin: 0;
+  }
+  
+  .header p {
+    font-size: 16px;
+    color: #777;
+    margin-top: 5px;
+  }
+  
+  /* Estilos para secciones */
+  .section {
+    margin-bottom: 20px;
+  }
+  
+  .section h2 {
+    font-size: 20px;
+    color: #333;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  
+  .section p {
+    font-size: 16px;
+    color: #555;
+    margin: 0;
+  }
+  
+  /* Estilos para lista de habilidades */
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .skills li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  /* Estilos para experiencia laboral */
+  .experience {
+    margin-bottom: 20px;
+  }
+  
+  .experience .job {
+    margin-bottom: 10px;
+  }
+  
+  .experience .job h3 {
+    font-size: 18px;
+    color: #333;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .experience .job p {
+    font-size: 16px;
+    color: #555;
+    margin: 0;
+  }
+  
+  .experience .job .date {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  /* Estilos para educación */
+  .education {
+    margin-bottom: 20px;
+  }
+  
+  .education .degree {
+    margin-bottom: 10px;
+  }
+  
+  .education .degree h3 {
+    font-size: 18px;
+    color: #333;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .education .degree p {
+    font-size: 16px;
+    color: #555;
+    margin: 0;
+  }
+  
+  .education .degree .date {
+    font-size: 14px;
+    color: #777;
+  }
